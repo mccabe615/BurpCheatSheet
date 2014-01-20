@@ -7,134 +7,175 @@
 
 ##Global
 
-Send to Repeater	
+**Send to Repeater**
+
 Ctrl+R
 
-Send to Intruder	
+**Send to Intruder**
+
 Ctrl+I
 
-Forward intercepted Proxy message	
+**Forward intercepted Proxy message**
+
 Ctrl+F
 
-Toggle Proxy interception	
+**Toggle Proxy interception**
+
 Ctrl+T
 
-Switch to Target	
+**Switch to Target**
+
 Ctrl+Shift+T
 
-Switch to Proxy	
+**Switch to Proxy**
+
 Ctrl+Shift+P
 
-Switch to Scanner	
+**Switch to Scanner**
+
 Ctrl+Shift+S
 
-Switch to Intruder	
+**Switch to Intruder**
+
 Ctrl+Shift+I
 
-Switch to Repeater	
+**Switch to Repeater**
+
 Ctrl+Shift+R
 
-Switch to Suite options	
+**Switch to Suite options**
+
 Ctrl+Shift+O
 
-Switch to Alerts tab	
+**Switch to Alerts tab**
+
 Ctrl+Shift+A
 
-Go to previous tab	
+**Go to previous tab**
+
 Ctrl+Minus
 
-Go to next tab	
-Ctrl+Equals
+**Go to next tab**
 
+Ctrl+Equals
 
 ##Editor
 
-Cut	
+**Cut**
+
 Ctrl+X
 
-Copy	
+**Copy**
+
 Ctrl+C
 
-Paste	
+**Paste**
+
 Ctrl+V
 
-Undo	
+**Undo**
+
 Ctrl+Z
 
-Redo	
+**Redo**
+
 Ctrl+Y
 
-Select all	
+**Select all**
+
 Ctrl+A
 
-Search	
+**Search**
 Ctrl+S
 
-Go to previous search match	
+**Go to previous search match**
+
 Ctrl+Comma
 
-Go to next search match	
+**Go to next search match**
+
 Ctrl+Period
 
-URL-decode	
+**URL-decode**
+
 Ctrl+Shift+U
 
-URL-encode key characters	
+**URL-encode key characters**
+
 Ctrl+U
 
-HTML-decode	
+**HTML-decode**
+
 Ctrl+Shift+H
 
-HTML-encode key characters	
+**HTML-encode key characters**
+
 Ctrl+H
 
-Base64-decode	
+**Base64-decode**
+
 Ctrl+Shift+B
 
-Base64-encode	
+**Base64-encode**
+
 Ctrl+B
 
-Backspace word	
+**Backspace word**
+
 Ctrl+Backspace
 
-Delete word	
+**Delete word**
+
 Ctrl+Delete
 
-Delete line	
+**Delete line**
+
 Ctrl+D
 
-Go to previous word	
+**Go to previous word**
+
 Ctrl+Left
 
-Go to previous word (extend selection)	
+**Go to previous word (extend selection)**
+
 Ctrl+Shift+Left
 
-Go to next word	
+**Go to next word**
+
 Ctrl+Right
 
-Go to next word (extend selection)	
+**Go to next word (extend selection)**
+
 Ctrl+Shift+Right
 
-Go to previous paragraph	
+**Go to previous paragraph**
+
 Ctrl+Up
 
-Go to previous paragraph (extend selection)	
+**Go to previous paragraph (extend selection)**
+
 Ctrl+Shift+Up
 
-Go to next paragraph	
+**Go to next paragraph**
+
 Ctrl+Down
 
-Go to next paragraph (extend selection)	
+**Go to next paragraph (extend selection)**
+
 Ctrl+Shift+Down
 
-Go to start of document	
+**Go to start of document**
+
 Ctrl+Home
 
-Go to start of document (extend selection)	
+**Go to start of document (extend selection)**
+
 Ctrl+Shift+Home
 
-Go to end of document	
+**Go to end of document**
+
 Ctrl+End
 
-Go to end of document (extend selection)	
+**Go to end of document (extend selection)**
+
 Ctrl+Shift+End

@@ -179,3 +179,6 @@
 **Go to end of document (extend selection)**
 
 > Ctrl+Shift+End
+
+Source:
+[PortSwigger](http://portswigger.net/burp/help/options_misc.html)
